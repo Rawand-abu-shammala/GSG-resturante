@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GSG-resturante/static/css/main.e382d949.css",
-    "main.js": "/GSG-resturante/static/js/main.cf7c3cfa.js",
+    "main.js": "/GSG-resturante/static/js/main.a860e244.js",
     "static/media/Untitled design (3) 1.png": "/GSG-resturante/static/media/Untitled design (3) 1.9552002021763489b5d8.png",
     "index.html": "/GSG-resturante/index.html",
     "main.e382d949.css.map": "/GSG-resturante/static/css/main.e382d949.css.map",
-    "main.cf7c3cfa.js.map": "/GSG-resturante/static/js/main.cf7c3cfa.js.map"
+    "main.a860e244.js.map": "/GSG-resturante/static/js/main.a860e244.js.map"
   },
   "entrypoints": [
     "static/css/main.e382d949.css",
-    "static/js/main.cf7c3cfa.js"
+    "static/js/main.a860e244.js"
   ]
 }
