@@ -1,0 +1,151 @@
+footer {
+  color: var(--color-light);
+  background: rgba(16, 20, 24, 0.70);
+  position: relative;
+  padding: 73px 0;
+
+}
+
+.footer-info {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-info h3 {
+  color: var(--color-light);
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin-bottom: 31px;
+}
+
+.text-footer {
+  display: flex;
+  align-items: center;
+}
+
+.text-footer h3 {
+  font-size: 24px;
+  color: var(--secondary-color);
+  margin-bottom: 51px;
+}
+
+
+.about-res, .contact {
+  width: 30%;
+}
+
+.link {
+  width: 20%;
+}
+
+.social-media {
+  margin-top: 18px;
+}
+
+.social-media ul {
+  display: flex;
+}
+
+.social-media ul li a {
+  display: inline-block;
+  margin-right: 17px;
+  padding-top: 12px;
+  text-align: center;
+}
+
+.link ul li {
+  margin-bottom: 15px;
+  font-size: 20px;
+  list-style: disc;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.link li {
+  margin: 12px 0 !important;
+}
+
+.contact ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.contact ul li span {
+  margin-right: 13px;
+}
+
+.contact ul li p,
+.contact ul li a {
+  line-height: 155.3%;
+letter-spacing: 2.08px;
+}
+
+.newletter {
+  padding: 20px 0;
+  color: #fff;
+}
+.flexSB {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.right {
+  text-align: right; 
+  display: flex; 
+  align-items: center; 
+}
+
+.newletter .left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newletter h3 {
+  color: var(--color-light);
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 18px;
+}
+.newletter .right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.newletter input {
+  width: 100%;
+  border: 1px solid #FFC;
+  outline: none;
+  padding: 18px 71px 17px 34px;
+  height: 55px;
+  width: 407px;
+    display: block; 
+    background-color: transparent;
+}
+input[type="text"]::placeholder {
+  padding-left: 34px; 
+}
+
+.newletter button {
+  display: inline-block; 
+  margin-left: 28px;
+  border: 2px solid #FFC;
+  width: 207px;
+  height: 55px;
+}
+
+.legal {
+  background: rgba(16, 20, 24, 0.70);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.legal p {
+  color: var(--color-light);
+  font-size: 14px;
+}

@@ -1,0 +1,37 @@
+.container.bout {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90vh;
+}
+
+.container .text {
+    color: #fff;
+    width: 60%;
+}
+
+.container .text .paragraph {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-top: 56px;
+    letter-spacing: 0.7px;
+    text-align: justify;
+    width: 568px;
+    letter-spacing: 1.82px;
+
+}
+
+.container .text .button {
+    margin-top: 66px;
+}
+
+.container .image {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,67 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333; /* لون خلفية الـ navbar */
+    color: white; /* لون النص داخل الـ navbar */
+  } 
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-menu li {
+    margin: 0 15px; /* تبعد العناصر في الـ navbar */
+  }
+  
+  .nav-menu li a {
+    text-decoration: none;
+    color: white; /* لون الروابط داخل الـ navbar */
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .nav-menu li a:hover {
+    color: cyan; /* لون الروابط عند التحويم عليها */
+  }
+  
+  .logo img {
+    width: 100px; /* عرض اللوجو */
+    height: auto; /* لاحتساب الارتفاع بشكل تلقائي */
+  }
+  
+  .searchIcon img {
+    width: 30px; /* عرض أيقونة البحث */
+    height: 30px; /* ارتفاع أيقونة البحث */
+  }
+  
+  .menu .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px; /* عرض زر "Book Now" */
+    height: 40px; /* ارتفاع زر "Book Now" */
+    background-color: burlywood; /* لون خلفية زر "Book Now" */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .menu .btn p {
+    margin: 0; /* إزالة الهوامش الافتراضية للفقرة داخل الزر */
+    color: white; /* لون النص داخل الزر */
+    font-size: 18px;
+  }
+  
+  .menu .btn .vector1,
+  .menu .btn .vector3 {
+    width: 20px; /* عرض الصورة المستخدمة في الزر */
+    height: 20px; /* ارتفاع الصورة المستخدمة في الزر */
+  } 
+  

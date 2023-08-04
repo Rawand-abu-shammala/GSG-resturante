@@ -1,0 +1,53 @@
+#menu {
+  padding: 5rem 0;
+}
+
+#menu .title {
+  text-align: center;
+}
+
+#menu .menu-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 70px;
+}
+
+#menu .menu-items .menu-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+
+#menu .menu-items .menu-item img {
+  margin-right: 11px;
+}
+
+#menu .menu-items .menu-item h3 {
+color: #FFF;
+font-size: 16px;
+font-weight: 700;
+}
+
+#menu .menu-items .menu-item span {
+font-size: 20px;
+  top: 0;
+  color: #FFF;
+}
+
+.k {
+ margin: 0 20px 0 10px;
+}
+
+#menu .menu-items .menu-item p {
+  color: #FFF;
+font-size: 14px;
+font-weight: 400;
+}
+
+
+  
+
+
+  
